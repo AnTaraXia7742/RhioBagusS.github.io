@@ -43,8 +43,8 @@ section {
 
 footer {
   background-color: #f7e7d5;
-  min-height: 50px;
-  padding-top: 12px;
+  min-height: 100px;
+  padding-bottom: 12px;
   color: #212529;
 }
 
