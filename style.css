@@ -1,13 +1,27 @@
+body {
+  margin-top: 50px;
+}
+
 .jumbotron {
   padding-top: 7rem;
   background-color: #212529;
   color: #f7e7d5;
 }
 
+section {
+  min-height: 420px;
+}
+
 #about {
   padding-top: 3rem;
   background-color: #212529;
   color: #f7e7d5;
+}
+
+#gallery {
+  padding-top: 3rem;
+  color: #f7e7d5;
+  background-color: #212529;
 }
 
 #projects {
@@ -29,7 +43,8 @@
 
 footer {
   background-color: #f7e7d5;
-  padding-bottom: 2rem;
+  min-height: 50px;
+  padding-top: 12px;
   color: #212529;
 }
 
